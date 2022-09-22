@@ -1,0 +1,99 @@
+#header {
+  border: 1px solid black;
+  width: 99%;
+  height: 50px;
+}
+#sidebar {
+  border: 1px solid black;
+  width: 20%;
+  height: 480px;
+  float: left;
+}
+#firstbox {
+  border: 1px solid black;
+  width: 79%;
+  height: 480px;
+  float: left;
+}
+#upperbox {
+  border: 1px solid black;
+  width: 99.9%;
+  height: 12%;
+}
+.mainbox {
+  border: 1px solid black;
+  width: 97%;
+  height: 25%;
+  margin: 12px;
+  padding-right: 8px;
+}
+#txt1 {
+  position: relative;
+  bottom: 15px;
+  left: 12px;
+}
+#txt2 {
+  position: relative;
+  bottom: 4px;
+  left: 12px;
+}
+#txt3 {
+  position: relative;
+  bottom: 20px;
+  left: 89%;
+}
+.txt4 {
+  position: relative;
+  bottom: 20px;
+  left: 10px;
+}
+.txt5 {
+  position: relative;
+  bottom: 130px;
+  left: 35%;
+}
+img {
+  width: 126px;
+  position: relative;
+  bottom: 230px;
+  left: 83%;
+}
+button {
+  position: relative;
+  bottom: 225px;
+  left: 84%;
+}
+
+#side {
+  border: 1px solid black;
+  width: 89%;
+  height: 230px;
+  margin-left: 14px;
+  margin-top: 33px;
+}
+.input1 {
+  position: relative;
+  top: 2px;
+  left: 8%;
+  width: 80%;
+  padding-bottom: 7px;
+  margin-bottom: 11px;
+}
+#search {
+  position: relative;
+  top: 240px;
+  right: 120px;
+  height: 20%;
+}
+#lowerbar {
+  border: 1px solid black;
+  width: 85%;
+  height: 50px;
+  margin-left: 24px;
+  margin-top: 33px;
+}
+#bar {
+  position: relative;
+  left: 48px;
+  top: 16px;
+}
